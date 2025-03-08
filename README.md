@@ -20,11 +20,11 @@
 - 🎯 Passionate about **QA automation**, bug tracking, and enhancing user experience.
 
 ### 📫 Connect with Me:
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/eslam-k-shaaban-654536285/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-  <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white">
+<a href="https://www.facebook.com/eslam.khaled.545402" target="_blank">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
 ### 🛠 Tech Stack:
@@ -42,9 +42,10 @@
 ![ISTQB](https://img.shields.io/badge/-ISTQB-05122A?style=flat&logo=testing-library)&nbsp;
 
 ### 📊 GitHub Stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=EslamKhaledShaaban&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-<a href="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EslamKhaledShaaban&layout=compact&theme=radical" alt="Most Used Languages" />
+
+<a href="https://komarev.com/ghpvc/?username=EslamKhaledShaaban&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=EslamKhaledShaaban&style=for-the-badge">
 </a>
-
