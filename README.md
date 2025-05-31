@@ -12,6 +12,8 @@
   </a>
 </p> 
 
+---
+
 ### 🚀 About Me:
 - 👨‍💻 I’m **Eslam Khaled Shaaban**, a passionate **Software Tester** with strong expertise in **IT**, **Agile methodologies**, and **ISTQB principles**.
 - 🛠 Skilled in **Jira**, **Postman (API Testing)**, and **Selenium with Java**.
@@ -19,13 +21,20 @@
 - 🔍 Always eager to learn new technologies and improve software quality through effective testing strategies.
 - 🎯 Passionate about **QA automation**, bug tracking, and enhancing user experience.
 
+---
+
 ### 📫 Connect with Me:
 <a href="https://www.linkedin.com/in/eslam-k-shaaban-654536285/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.facebook.com/eslam.khaled.545402" target="_blank">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+<a href="https://wa.me/201228552482" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
+<a href="https://github.com/eslam2200214/eslam2200214/blob/main/Eslam_Khaled_QA_Tester_CV_2025.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/-Download%20CV-E4405F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
+
+---
 
 ### 🛠 Tech Stack:
 ![Software Testing](https://img.shields.io/badge/-Software%20Testing-05122A?style=flat&logo=selenium)&nbsp;
@@ -40,6 +49,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Agile](https://img.shields.io/badge/-Agile-05122A?style=flat&logo=scrumalliance)&nbsp;
 ![ISTQB](https://img.shields.io/badge/-ISTQB-05122A?style=flat&logo=testing-library)&nbsp;
+
+---
 
 ### 📊 GitHub Stats:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=eslam2200214&show_icons=true&theme=radical" alt="GitHub Stats" />
